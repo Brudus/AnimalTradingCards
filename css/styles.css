@@ -1,0 +1,52 @@
+/* add your CSS here */
+body {
+	background-color: #fff;
+}
+
+.card {
+	border: 1px solid lightgray;
+	width: 400px;
+	padding: 15px;
+	-webkit-box-shadow: 8px 8px 3px 0px rgba(230,230,230,1);
+	-moz-box-shadow: 8px 8px 3px 0px rgba(230,230,230,1);
+	box-shadow: 8px 8px 3px 0px rgba(230,230,230,1);
+}
+
+.card-title {
+	font-size: 1.4em;
+}
+
+.card img {
+	width: 100%;
+	margin: 15px 0;
+}
+
+.card-list {
+	list-style-type: none;
+	padding: 0;
+}
+
+.card-list-label {
+	font-weight: bold;
+}
+
+.card-text {
+	border: 1px solid lightgray;
+	padding: 5px 10px;
+	color: #333;
+}
+
+.card-description {
+	line-height: 1.25em;
+	font-size: 0.97em;
+}
+
+/*
+
+Box shadow
+Border
+Second Border
+Font
+Font-size
+
+*/
